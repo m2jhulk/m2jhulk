@@ -14,10 +14,7 @@ I am a Programmer and Educator with a strong passion for **Python, JavaScript, a
 ### 🚀 Projects
 * **[Repulse Indicator] (:** A custom technical tool built using Python and Pandas to analyze price-volume relationships and identify trend reversals.
 
----
 
-### 📈 GitHub Stats
-![Montu's Stats](https://media.licdn.com/dms/image/v2/D5603AQFvsgtqNq3D5w/profile-displayphoto-shrink_400_400/B56ZVa2PcgGsAg-/0/1740985924048?e=2147483647&v=beta&t=917sbHaXl653bDRMN9O0fofFA8-DJ0F7mkRDPBw5VJs)
 
 ---
 

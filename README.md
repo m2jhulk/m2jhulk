@@ -1,4 +1,4 @@
-### Hi there! I'm Montu Yadav 👋
+ ### Hi there! I'm Montu Yadav 👋
 
 I am a Programmer and Educator with a strong passion for **Python, JavaScript, and Web Development**. I love building tools that solve real-world problems and analyzing market trends.
 
@@ -23,7 +23,7 @@ I am a Programmer and Educator with a strong passion for **Python, JavaScript, a
 
 ### 📧 Connect with me
 * **LinkedIn:** [https://in.linkedin.com/in/montu-yadav-111b90187]
-* **Twitter:** [@m2j247]
+
   
 
 *Always learning, always building.*
